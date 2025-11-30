@@ -1,0 +1,7 @@
+{
+  "name": "Tunegem AI",
+  "description": "An AI-powered music identifier that listens to your surroundings and finds the song on Spotify.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
